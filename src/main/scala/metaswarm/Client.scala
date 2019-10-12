@@ -1,0 +1,5 @@
+package metaswarm
+
+object Client {
+
+}
